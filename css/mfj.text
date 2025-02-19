@@ -1,0 +1,220 @@
+   .section-1{
+    background: url(../img/bg/area_bg01.jpg) no-repeat center scroll ;
+    background-size: cover;
+    width: 100%;
+    height: 3000px;
+   }
+   .section-1 > div:nth-of-type(1){
+    display: flex;
+    flex-direction: column;
+gap: 30px;
+    align-items: center;
+    padding-top: 120px;
+    
+    /* margin-top: 100px; */
+}
+ .pkh3{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-transform: uppercase;
+    align-items: center;
+
+   }
+  .pk{
+     color: #68fb9a;
+     font-weight: 700;
+     letter-spacing: 2.2px;
+     font-family: "Barlow", serif;
+
+     padding: 0;
+     margin: 0;
+     
+     font-size: 14px;
+    }
+    
+   .h3{
+        font-size: 45px;
+        letter-spacing: 1.1px;
+        padding: 0;
+        margin: 0;
+    line-height: 1.1;
+    font-weight: 800;
+    color: #fff;
+    font-family: "Barlow", serif;
+
+
+   }
+   .divmine{
+    clip-path: polygon(10% 119%, 90% 110%, 100% 0%, -0% 0%);   background-color: #68fb9a;
+    width: 60px;
+    height: 5px;
+    margin-top: 10px;
+
+   }
+
+
+
+    .section-1 div:nth-of-type(3)
+
+
+
+    
+        </div>
+        <!-- <div>
+            <div><img src="img/others/about_tab01.png" alt=""></div>
+            <div><img src="img/others/about_tab02.png" alt=""></div>
+            <div><img src="img/others/about_tab03.png" alt=""></div>
+            <div><img src="img/others/about_tab04.png" alt=""></div>
+            <div><img src="img/others/about_tab05.png" alt=""></div>
+            <div><img src="img/others/about_tab06.png" alt=""></div>
+           
+        </div> -->
+           <div class="karton">
+            <div><img src="img/others/about_tab01.png" alt=""></div>
+            <div><img src="img/others/about_tab02.png" alt=""></div>
+            <div><img src="img/others/about_tab03.png" alt=""></div>
+            <div><img src="img/others/about_tab04.png" alt=""></div>
+            <div><img src="img/others/about_tab05.png" alt=""></div>
+            <div><img src="img/others/about_tab06.png" alt=""></div>    
+               </div>
+        <div>
+            <div >
+                <img src="img/others/about_img01.jpg" alt="">
+            </div>
+            <div>
+                <div class="topp">
+                    <div >
+                        <div>
+                            <b>human game</b>
+                        <p>rate 50%</p>
+                    </div>
+                        
+                        <p>Lorem ipsum dolor sit amet, consteur adipiscing Duis elementum sollicitudin is yaugue euismods Nulla ullamcorper. Morbi pharetra tellus miolslis, tincidunt massa venenatis.</p>
+                        
+                    </div>
+                    <div>
+                        <ol>
+                            <li><a href=""><img src="img/icons/features_icon01.png" alt=""><span>Chichi Dragon Ball</span></a></li>
+                            <li><a href=""> <img src="img/icons/features_icon02.png" alt=""><span>Space Babe Night</span></a></li>
+                            <li><a href=""> <img src="img/icons/features_icon03.png" alt=""><span>Dragon Ball</span></a></li>
+                        </ol>
+                    </div>
+                </div>
+                <div  class="down">
+                    <ol>
+                        <li><a href=""> <span>Chichi Dragon Ball</span></a></li>
+                        <li><a href=""><span>Space Babe Night</span></a></li>
+                        <li><a href=""> <span>Dragon Ball</span></a></li>
+                    </ol>
+
+                </div>
+            </div>
+        </div>
+        
+     </div>
+  <!--  -->
+
+
+   .section-1 div:nth-of-type(3) > div:nth-of-type(1){
+    height: 350px;;
+      width:40% !important;
+      background-color: #68fb9a;
+
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(1) img{
+    width: 100%;
+    height: 100%;
+   }
+   .karton
+   .section-1 div:nth-of-type(3) > .right-humman{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 60%;
+    background-color: #ffbe18 !important;
+    padding: 0;
+    gap: 0;
+    height:370px;
+    
+
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp{
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    padding: 0;
+    height: 400px;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div{
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    width: 60%;
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div div{
+    display: flex;
+    flex-direction: column;
+    /* height: 100%; */
+    gap: 10px;
+    margin: 0 ;
+    padding:0;
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div div p{
+       font-family: "Barlow", serif;
+       font-size: 18px;
+       font-weight: bold;
+       color: #ffbe18;
+}
+.section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div div b{
+       font-family: "Barlow", serif;
+       font-size: 25px;
+       font-weight: bold;
+
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div > p{
+    padding: 0;
+    margin: 0;
+    color: #adb0bc;
+    margin-top: 20px;
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div:nth-of-type(2){
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div:nth-of-type(2) ol{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+
+
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div:nth-of-type(2) ol li , .section-1 div:nth-of-type(3) div:nth-of-type(2) li{
+    list-style-type: none;
+    background-image: -webkit-linear-gradient(0deg, #1f2935 0%, transparent 100%, #10181f 100%);
+    box-shadow: 0 3px 7px 0 rgb(0 0 0 / .21);
+    width: 250px;
+    padding: 2.5px 7px;
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div:nth-of-type(2) ol li a{
+    display: flex;
+    flex-direction: row;
+    /* gap: 10px; */
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    gap: 10px;
+    padding: 0;
+    position: relative;
+    height: 60px;
+   }
+   .section-1 div:nth-of-type(3) div:nth-of-type(2) .topp > div:nth-of-type(2) ol li a img{
+    width: 50px;
+    height: 50px;
+    padding: 0;
